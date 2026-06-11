@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @app-dev-source
+- 👋 Hi, I’m Aditya Raj
 - 👀 I’m interested in full stack web development
 
 <!---
